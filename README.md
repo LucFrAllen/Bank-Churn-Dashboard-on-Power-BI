@@ -1,4 +1,4 @@
-# Bank-Churn-Dashboard-on-Power-BI
+# Bank Churn Dashboard on Power BI
 
 
 This was a project where I aimed to create a professional dahsbaoard analysing the churn rate of a bank. Alongside this, I created a key insights report which I then used to to deliver a concise presentation.
